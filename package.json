@@ -1,0 +1,28 @@
+{
+  "name": "arabic-personal-names",
+  "version": "1.0.0",
+  "description": "A list of real Arabic personal first and last names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forabi/arabic-personal-names.git"
+  },
+  "keywords": [
+    "personal",
+    "name",
+    "arabic",
+    "male",
+    "female",
+    "test",
+    "random"
+  ],
+  "author": "Muhammad Fawwaz Orabi <mfawwaz93@gmail.com> (http://forabi.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forabi/arabic-personal-names/issues"
+  },
+  "homepage": "https://github.com/forabi/arabic-personal-names#readme"
+}
