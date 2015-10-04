@@ -1,6 +1,13 @@
 # arabic-personal-names
 A list of Arabic personal names. Useful for generating realistic user profile in tests.
 
+
+## Installation
+
+```shell
+npm install --save arabic-personal-names
+```
+
 ## Usage
 The module is extremely easy to use:
 
