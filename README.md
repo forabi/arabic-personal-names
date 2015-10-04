@@ -25,7 +25,7 @@ var last = require('arabic-personal-names/last.json')
 ```
 
 ### Usage with Chance.js
-The most common use for this module might be to generate random Arabic names for use in project tests. One possible way to do that is to combine this module with a psuedo-random data generator, like the excellent [Chance][http://chancejs.com] library:
+The most common use for this module might be to generate random Arabic names for use in project tests. One possible way to do that is to combine this module with a psuedo-random data generator, like the excellent [Chance](http://chancejs.com) library:
 
 ```javascript
 var Chance = require('chance'),
