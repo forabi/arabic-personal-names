@@ -1,15 +1,7 @@
-var read = require('fs').readFileSync;
-
-function getArray(filename) {
-  return String(read(filename)).trim().split('\n')
-}
-
-var male = getArray('first.male.txt'),
-  female = getArray('first.female.txt'),
-  last = getArray('last.txt');
+'use strict'
 
 module.exports = {
-  male: male,
-  female: female,
-  last: last
+  male: require('./male.json'),
+  female: require('./female.json'),
+  last: require('./last.json')
 }

@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/forabi/arabic-personal-names/issues"
   },
-  "homepage": "https://github.com/forabi/arabic-personal-names#readme"
+  "homepage": "https://github.com/forabi/arabic-personal-names#readme",
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
 }
