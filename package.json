@@ -1,6 +1,6 @@
 {
   "name": "arabic-personal-names",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A list of real Arabic personal first and last names",
   "main": "index.js",
   "scripts": {
